@@ -1,0 +1,35 @@
+*
+table {
+max-width: fit-content;
+max-height: fit-content;
+margin: auto;
+/* border-collapse: collapse; */
+/* border-color:  white;  */
+border-spacing: 35px;
+}
+
+td {
+margin: 25px auto;
+width:   50px;
+height: 50px;
+padding: 1px;
+
+background-color: #f05712;
+border: 30px solid  #2cd64d;
+
+outline: solid #f05712;
+outline-width: 7px;
+}
+
+th {
+margin: 25px auto;
+width: 50px;
+height: 50px;
+padding: 1px;
+
+background-color: #2cd64d;
+border: 30px solid  #f05712;
+
+outline: solid #2cd64d; 
+outline-width: 7px;
+}
